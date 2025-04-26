@@ -1,4 +1,4 @@
 # apna_repository
 This is my first repository.
 <br>
-Author Mohammad imran
+Author Mohammad imran Khan
